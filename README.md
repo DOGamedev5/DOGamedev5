@@ -17,6 +17,7 @@
 
 # Stats!
 
+## general
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
 
 ## top used langueges
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOGamedev5&langs_count=2)
