@@ -1,5 +1,19 @@
 # Meet the DOGael!
 
+
+## Social
+<br>
+<a href="https://www.instagram.com/dogamer50/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&label=dogamer50&logoColor=pink">
+</a>
+
+## Support
+<br>
+<a href="https://ko-fi.com/dogaelarts">
+<img src="https://img.shields.io/badge/ko-fi?style=for-the-badge&logo=ko-fi&label=dogaelarts&color=blue">
+</a>
+
+
 ## Who I am?
   hello! my name is **"Misael Victor"**, I have used [Love2D](https://love2d.org/) and programed using lua, but nowdays I use [Godot Engine](https://godotengine.org/), and I learning C
   
